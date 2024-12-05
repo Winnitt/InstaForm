@@ -1,5 +1,5 @@
 {
-  "name": "form-builder",
+  "name": "form",
   "version": "1.0.0",
   "scripts": {
     "dev": "pnpm --stream -r run dev",
